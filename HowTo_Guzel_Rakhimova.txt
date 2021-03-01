@@ -1,0 +1,19 @@
+Guzel Rakhimova
+README.TXT
+Instructions to open the java file:
+
+I created the project using NETBEANS:
+To run Java File through Command Line, I used Calculator.jar File
+
+1. Download the code
+2. Set the java path (if needed): SET PATH = “C:\Program Files\Java\jdk1.8.0_221\bin”
+3. Go to the file location of the file downloaded: cd Calculator/dist/
+4. Once you are in the right location where the Calculator.jar File is, then type the following: java -jar Calculator.jar
+Explanation of how the Calculator works:
+1. Trigonometric functions are running only when you type(press) the number first and then press SIN, COS, TAN, COT, LN, or LOG functions.
+2. If the input is invalid – The exception will throw “Invalid Input”. Check the code line 33 and 36.
+3. If a negative number is entered, the program can not recognize it. 
+In case of failure of failure of executing the file, followings are the screenshots: (see the next page)
+
+
+
